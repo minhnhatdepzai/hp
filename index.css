@@ -513,7 +513,7 @@ body, html{
 	position: absolute;
 	left:0;
 	top:0;
-	background:url("../images/Star-Transparent-PNG.png") center / cover repeat;
+	background:url("Star-Transparent-PNG.png") center / cover repeat;
 	opacity: 0;
 	animation:thirdCanvasBackground 500ms ease 3s 1 forwards;
 }
